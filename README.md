@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is RIZWAN ALI
 ==================================================================================================================================
 
- FULL STACK Blockchain DEVELPOR
+ FULL STACK  DEVELPOR
 
 <h3 align="center">A passionate frontend developer from PAKISTAN</h3>
 
@@ -11,7 +11,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 🔭 I’m currently working on [COMSATS COIN](https://comsats-erc-coin.vercel.app/)
 
-- 🌱 I’m currently learning **Blockchain**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://rizu.vercel.app/](https://rizu.vercel.app/)
 
