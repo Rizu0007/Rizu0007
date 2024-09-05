@@ -1,9 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is RIZWAN ALI
 ==================================================================================================================================
 
- FULL STACK  DEVELPOR
+ FULL STACK  Developer
 
-<h3 align="center">A passionate frontend developer from PAKISTAN</h3>
+<h3 align="center">A passionate  FULL STACK  Developer
+ from PAKISTAN</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizu0007&label=Profile%20views&color=0e75b6&style=flat" alt="rizu0007" /> </p>
 
