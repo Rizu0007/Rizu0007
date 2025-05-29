@@ -10,7 +10,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizu0007" alt="rizu0007" /></a> </p>
 
-- 🔭 I’m currently working on [My Arbit](https://myarbit.com/)
+- 🔭 I’m currently working on [upinvest](https://upinvest.pk/)
 
 - 🌱 I’m currently learning **Node.js**
 
