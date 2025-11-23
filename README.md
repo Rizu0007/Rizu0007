@@ -16,7 +16,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 👨‍💻 All of my projects are available at [https://rizu.vercel.app/](https://rizu.vercel.app/)
 
-- 💬 Ask me about **Mern satck adn Ai**
+- 💬 Ask me about **Mern satck and Ai**
 
 - 📫 How to reach me **ruzwanali007@gmail.com**
 
