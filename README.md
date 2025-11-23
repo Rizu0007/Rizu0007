@@ -10,13 +10,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rizu0007" alt="rizu0007" /></a> </p>
 
-- 🔭 I’m currently working on [upinvest](https://upinvest.pk/)
+- 🔭 I’m currently working on [Xeko.ai](https://www.xeko.ai/)
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **muti Ai agent**
 
 - 👨‍💻 All of my projects are available at [https://rizu.vercel.app/](https://rizu.vercel.app/)
 
-- 💬 Ask me about **Raect Next and Node.js**
+- 💬 Ask me about **Mern satck adn Ai**
 
 - 📫 How to reach me **ruzwanali007@gmail.com**
 
